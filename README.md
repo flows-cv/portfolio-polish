@@ -19,9 +19,9 @@ We review thousands of portfolios placing designers and engineers at top compani
 - **Portfolio as Product** (Medium) — IA, performance, responsiveness
 - **Builder Signals** (Medium) — shipped tools, live demos, code
 
-## Benchmarked against 28 reference portfolios
+## Benchmarked against 55+ reference portfolios
 
-Including rauno.me, paco.me, emilkowal.ski, shud.in, benji.org, liumichelle.com, arjunmahesh.com, hector.me, and more. The skill cites specific portfolios in its feedback so candidates know exactly what to study.
+Including rauno.me, paco.me, emilkowal.ski, shud.in, benji.org, liumichelle.com, arjunmahesh.com, hector.me, robb.is, sakun.co, alexwidua.com, barvian.me, austinvalleskey.com, and many more — spanning web, iOS, mobile, and platform design. The skill cites specific portfolios in its feedback so candidates know exactly what to study.
 
 ## Install
 
