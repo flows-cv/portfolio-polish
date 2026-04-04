@@ -26,7 +26,7 @@ Including rauno.me, paco.me, emilkowal.ski, shud.in, benji.org, liumichelle.com,
 ## Install
 
 ```bash
-npx skills add Flows-CV/portfolio-polish
+npx skills add flows-cv/portfolio-polish
 ```
 
 ## Usage
